@@ -10,7 +10,7 @@ Este trabajo consiste en la resolución de guias prácticas de Python utilizando
 
 1. Clonar el repositorio
 ```bash
-git clone https://github.com/Tobias-Vega/-pandas_df_tlp3_tobias_vega
+git clone https://github.com/Tobias-Vega/modelo_regresion_lineal_tlp3_tobias_vega
 ```
 
 2. Activar el entorno virtual
